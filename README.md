@@ -14,7 +14,7 @@ A simple user management web application built using Node.js, Express, MySQL, EJ
 
 - Uses EJS for rendering views
 
-- Includes method-override to support PUT and DELETE requests in forms
+- Includes method-override to support PATCH and DELETE requests in forms
 
 - Faker.js used to generate random user data structure (used internally)
 
